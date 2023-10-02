@@ -50,5 +50,27 @@
     }
   ],
   "appoinments": [],
-  "reviews": []
+  "reviews": [
+    {
+      "id": 1,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXiNpYO73Jg9QTnl2xJyxguvtW3DBZwTJIkw&usqp=CAU",
+      "name": "Pablo Castro",
+      "stars": 3,
+      "reviewText": "My experience at Reluxe has been amazing. Manuela is very professional and knowledgeable. Her facials are very relaxing and the results are great. After seeing her and following a treatment plan, I am more confident in my skin. I recommend everyone to invest in their skin and go visit Manuela. The clinic is very clean and the staff is really friendly."
+    },
+    {
+      "id": 2,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXiNpYO73Jg9QTnl2xJyxguvtW3DBZwTJIkw&usqp=CAU",
+      "name": "Pablo Castro",
+      "stars": 5,
+      "reviewText": "I was super impressed with the care and attention I received at my mole removal appointment on Saturday . Staff welcomed me in with a friendly smile. First Impressions count so much! Manuela was very tentative and thorough on explaining with detail what she was doing and what  she was going to do on my face. I felt relaxed and at ease. I was pretty impressed with the final result.I asked so much questions as I was concern but she always replied politely and explained me quite well with the things. Thanks Again Manuela your Amazing session.I definitely will recommend you to my other friends for other treatments. Thanks alot"
+    },
+    {
+      "id": 3,
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXiNpYO73Jg9QTnl2xJyxguvtW3DBZwTJIkw&usqp=CAU",
+      "name": "Pablo Castro",
+      "stars": 4,
+      "reviewText": "Very good experience  everyone are very experienced they know there work i am really  happy."
+    }
+  ]
 }
